@@ -24,32 +24,6 @@ A full-stack web application where users can view, add, and manage reviews for t
 
 ---
 
-## 📁 Project Structure
-
-book-review-app/
-├── backend/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── config/
-│ └── server.js
-├── frontend/
-│ └── src/
-│ ├── app/
-│ │ ├── components/
-│ │ ├── services/
-│ │ └── app.module.ts
-│ └── index.html
-├── package.json
-├── README.md
-└── .env
-
-yaml
-Copy
-Edit
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone the Repository
